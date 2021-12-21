@@ -1,1 +1,1 @@
-![Power Bi](Dashboard.png)
+![Power Bi](Dashboard.PNG)
