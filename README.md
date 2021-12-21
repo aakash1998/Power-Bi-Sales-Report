@@ -1,1 +1,1 @@
-# Power Bi Dashboard
+![Power Bi](logo.jpg)
