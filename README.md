@@ -1,1 +1,1 @@
-![Power Bi](logo.jpg)
+![Power Bi](logo.jpg , width='20')
